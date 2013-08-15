@@ -124,6 +124,7 @@ PRODUCT_PACKAGES += \
 # Prebuilts /system/etc
 PRODUCT_COPY_FILES += \
     $(COMMON_FOLDER)/prebuilt/etc/audio_policy.conf:/system/etc/audio_policy.conf \
+    $(COMMON_FOLDER)/prebuilt/etc/gps.conf:/system/etc/gps.conf \
     $(COMMON_FOLDER)/prebuilt/etc/media_codecs.xml:/system/etc/media_codecs.xml \
     $(COMMON_FOLDER)/prebuilt/etc/media_profiles.xml:/system/etc/media_profiles.xml \
     $(COMMON_FOLDER)/prebuilt/etc/mixer_paths.xml:/system/etc/mixer_paths.xml \
