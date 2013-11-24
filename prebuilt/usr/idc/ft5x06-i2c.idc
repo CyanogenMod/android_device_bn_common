@@ -26,3 +26,6 @@ keyboard.builtIn = 1
 
 cursor.mode = navigation
 cursor.orientationAware = 1
+
+touch.pressure.scale = .05
+
