@@ -23,7 +23,7 @@
 #
 
 # SGX Bins
-vendor/lib/hw/gralloc.omap4470.so
+vendor/lib/hw/gralloc.omap4.so
 vendor/lib/egl/License_for_IMG_SGX_Binary_Image.txt
 vendor/lib/egl/libEGL_POWERVR_SGX544_112.so
 vendor/lib/egl/libGLESv1_CM_POWERVR_SGX544_112.so
