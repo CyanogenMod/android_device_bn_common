@@ -16,9 +16,9 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">USB host kapcsoló</string>
-  <string name="action_settings">Beállítások</string>
-  <string name="usb_title">Nook HD/HD+ USB host kapcsoló</string>
-  <string name="usb_status">Kényszerített USB host állapota</string>
-  <string name="usb_button">Váltógomb</string>
+  <string name="app_name">مبدل مضيف USB</string>
+  <string name="action_settings">إعدادات</string>
+  <string name="usb_title">مبدل الزواية عالية الدقة HD/HD +مضيف USB</string>
+  <string name="usb_status">حالة المضيف USB إجباري</string>
+  <string name="usb_button">زر التبديل</string>
 </resources>

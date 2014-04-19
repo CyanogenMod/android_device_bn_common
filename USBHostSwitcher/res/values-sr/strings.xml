@@ -16,9 +16,9 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">USB host kapcsoló</string>
-  <string name="action_settings">Beállítások</string>
-  <string name="usb_title">Nook HD/HD+ USB host kapcsoló</string>
-  <string name="usb_status">Kényszerített USB host állapota</string>
-  <string name="usb_button">Váltógomb</string>
+  <string name="app_name">USB host прекидач</string>
+  <string name="action_settings">Подешавања</string>
+  <string name="usb_title">Нечујни HD/HD+ USB host прекидач</string>
+  <string name="usb_status">Приморан USB host статус</string>
+  <string name="usb_button">Дугме за пребацивање</string>
 </resources>
