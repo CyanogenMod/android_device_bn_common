@@ -177,6 +177,9 @@ TARGET_RECOVERY_PIXEL_FORMAT := "BGRA_8888"
 BOARD_USE_CUSTOM_RECOVERY_FONT := \"roboto_15x24.h\"
 RECOVERY_NAME := EMMC CWM-based recovery
 
+# Releasetools
+TARGET_RELEASETOOL_OTA_FROM_TARGET_SCRIPT := ./device/bn/common/releasetools/bn_ota_from_target_files
+
 # Bootanimation
 #TARGET_BOOTANIMATION_PRELOAD := true
 
