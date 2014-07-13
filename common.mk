@@ -192,4 +192,8 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     $(COMMON_FOLDER)/prebuilt/poetry/poem.txt:root/sbin/poem.txt
 
+# Recovery
+PRODUCT_COPY_FILES += \
+    $(COMMON_FOLDER)/twrp.fstab:recovery/root/etc/twrp.fstab
+
 $(call inherit-product-if-exists, vendor/bn/omap4470-common/omap4470-common-vendor.mk)
