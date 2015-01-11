@@ -19,6 +19,6 @@
   <string name="app_name">Přepínač USB host</string>
   <string name="action_settings">Nastavení</string>
   <string name="usb_title">Nook HD/HD+ přepínač USB host</string>
-  <string name="usb_status">Vynucený status USB host</string>
+  <string name="usb_status">Vynucený stav USB host</string>
   <string name="usb_button">Přepínač</string>
 </resources>
