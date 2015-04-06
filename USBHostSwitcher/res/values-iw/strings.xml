@@ -16,9 +16,9 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="app_name">שנה מצב USB host</string>
+  <string name="app_name">מחליף מארח USB</string>
   <string name="action_settings">הגדרות</string>
-  <string name="usb_title">שנה מצב Nook HD/HD+ USB host</string>
-  <string name="usb_status">מצב כפוי של USB host</string>
-  <string name="usb_button">שנה</string>
+  <string name="usb_title">פינוי מחליף מארח HD/HD+ USB</string>
+  <string name="usb_status">כפה מצב של מארח USB</string>
+  <string name="usb_button">לחצן שינוי</string>
 </resources>
