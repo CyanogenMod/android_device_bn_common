@@ -16,8 +16,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="action_settings">Ezarpenak</string>
-  <string name="usb_title">Nook HD/HD+ USB-OTG hautatzailea</string>
-  <string name="usb_status">USB-OTG egoera bortxatu</string>
-  <string name="usb_button">Botoi konmutadorea</string>
+  <string name="action_settings">Cài đặt</string>
+  <string name="usb_button">Nút bật tắt</string>
 </resources>

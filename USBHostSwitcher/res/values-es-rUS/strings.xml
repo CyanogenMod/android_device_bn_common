@@ -16,8 +16,9 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="action_settings">Ezarpenak</string>
-  <string name="usb_title">Nook HD/HD+ USB-OTG hautatzailea</string>
-  <string name="usb_status">USB-OTG egoera bortxatu</string>
-  <string name="usb_button">Botoi konmutadorea</string>
+  <string name="app_name">Selector USB-OTG</string>
+  <string name="action_settings">Ajustes</string>
+  <string name="usb_title">Selector Nook HD/HD+ USB-OTG</string>
+  <string name="usb_status">Forzar estado USB-OTG</string>
+  <string name="usb_button">Botón conmutador</string>
 </resources>
