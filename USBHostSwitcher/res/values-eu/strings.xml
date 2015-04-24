@@ -19,5 +19,5 @@
   <string name="action_settings">Ezarpenak</string>
   <string name="usb_title">Nook HD/HD+ USB-OTG hautatzailea</string>
   <string name="usb_status">USB-OTG egoera bortxatu</string>
-  <string name="usb_button">Botoi konmutadorea</string>
+  <string name="usb_button">Txandakatu botoia</string>
 </resources>
