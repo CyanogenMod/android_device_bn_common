@@ -113,8 +113,10 @@
     <string-array name="config_locationProviderPackageNames" translatable="false">
         <!-- The standard AOSP fused location provider -->
         <item>com.android.location.fused</item>
-        <!-- The Google Network Location Services location provider -->
-        <item>com.google.android.location</item>
+	<!-- GMS (GApps) provider for KitKat and above -->
+	<item>com.google.android.gms</item>
+	<!-- Legacy Google Network Location Services -->
+	<item>com.google.android.location</item>
     </string-array>
 
     <!-- Whether a software navigation bar should be shown. NOTE: in the future this may be
