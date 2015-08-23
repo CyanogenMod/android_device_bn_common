@@ -16,9 +16,9 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="app_name">Promijeni USB host</string>
+  <string name="app_name">Prekidač USB host-a</string>
   <string name="action_settings">Postavke</string>
-  <string name="usb_title">Nook HD/HD+ USB host promjena</string>
-  <string name="usb_status">Status forsiranog USB host-a</string>
-  <string name="usb_button">Tipka upravljanja</string>
+  <string name="usb_title">Prekidač Nook HD/HD+ USB host-a</string>
+  <string name="usb_status">Prisiljeni status USB host-a</string>
+  <string name="usb_button">Prekidač</string>
 </resources>
