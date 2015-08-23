@@ -16,9 +16,9 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="app_name">تعویض کننده USB host</string>
-  <string name="action_settings">تنظیمات</string>
-  <string name="usb_title">تعویض کننده میزبان یو‌اس‌بی Nook HD/HD+</string>
-  <string name="usb_status">وضعیت میزبانی اجباری یو‌اس‌بی</string>
-  <string name="usb_button">دکمه سوئیچ</string>
+  <string name="app_name">Preklopnik gostiteljev USB</string>
+  <string name="action_settings">Nastavitve</string>
+  <string name="usb_title">Preklopnik gostiteljev USB Nook HD/HD+</string>
+  <string name="usb_status">Vsiljeno stanje gostitelja USB</string>
+  <string name="usb_button">Gumb za preklop</string>
 </resources>
